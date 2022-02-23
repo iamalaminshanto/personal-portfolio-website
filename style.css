@@ -1,0 +1,94 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.orange-color{
+color: orange;
+}
+#top-h1{
+    border-left: 5px solid maroon;
+    padding-left: 10px;
+}
+.button{
+    text-decoration: none;
+    background-color: maroon;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.half-width{
+    width: 100%;
+    margin-left: 10%;
+}
+.top-banner{
+    display: flex;
+    margin-bottom: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.half-width h1{
+font-size: 50px;
+}
+.my-mission{
+    margin-bottom: 5%;
+}
+.my-mission h1{
+    font-size: 50px;
+    text-align: center;
+}
+.mission-container{
+display: flex;
+align-items: center;
+margin-left: 5%;
+margin-right: 5%;
+
+}
+.mission-container img{
+    width: 30%;
+}
+.all-missions{
+    border-radius: 10px;
+    margin: 2%;
+    padding: 20px;
+}
+#mission{
+    background-color: #4f9da696;
+    
+}
+#vission{
+    background-color: #ff59596e;
+    
+}
+#goals{
+    background-color: #fff4d6c0;
+
+}
+.develop-area{
+    display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 300px;
+    background-position: left;
+    margin-bottom: 5%;
+}
+.global-area{
+    display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-position: right bottom;
+    margin-bottom: 5%;
+}
+footer{
+    height: 150px;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+.footer-area{
+    padding: 10px;
+}
+.maroon-color{
+    color: maroon;
+}
