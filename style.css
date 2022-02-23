@@ -80,6 +80,31 @@ margin-right: 5%;
     background-position: right bottom;
     margin-bottom: 5%;
 }
+.blogs-area{
+    margin-bottom: 10px;
+}
+.blogs{
+    display: flex;
+    margin-left: 15%;
+    
+    
+}
+.blogs-h1{
+    font-size: 50px;
+    text-align: center;
+}
+.blog{
+    background-color: rgba(128, 0, 0, 0.459);
+    width: 25%;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 15px;
+
+}
+.blogs img{
+    width: 100%;
+    border-radius: 10px;
+}
 footer{
     height: 150px;
     color: white;
